@@ -1,0 +1,2 @@
+This api helps to maintenance your pets. Uses MSSQL Db. Db script file included to project. Please don`t forget to change your connection strings!!.
+Bu api evcil hayvanlarınızın bakımına yardımcı olur. MSSQL Db kullanır. Db script dosyası projeye dahil edilmiştir. Lütfen bağlantı dizelerinizi değiştirmeyi unutmayın !!!.
